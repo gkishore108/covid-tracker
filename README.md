@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A COVID-19 tracker dashboard created using ReactJS and Firebase. 
 
 The final version of the app can be seen here: https://covid-19-tracker-24949.web.app/ 
 
